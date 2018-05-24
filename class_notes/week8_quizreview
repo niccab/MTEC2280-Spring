@@ -1,0 +1,18 @@
+Quiz Review:
+
+- LEDs
+	-pinMode, digitalWrite
+
+- delay, delayMicroseconds
+- arrays
+	- int[] arrayName = {1,2,3}
+- for loop
+- setup / loop 
+- Serial, serial monitor, 9600, Serial.begin(9600) (9600)
+	- print vs println
+- map
+- speakers
+- potentiometers
+- breadboard
+- wires and organized color systems
+- resistors

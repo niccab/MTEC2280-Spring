@@ -1,0 +1,42 @@
+2/14/18
+
+HW: finish sad pong
+
+REVIEW
+
+shapes
+	rect
+	ellipse
+	line
+
+background
+
+colors
+  r,g,b
+  grayscale
+  stroke
+  fill
+  
+random
+
+event function
+  keyPressed
+  mouseDragged
+  etc
+
+processing.org reference
+
+void setup, void draw
+comments
+println
+if
+variables
+	string
+	float
+	int
+	how to use them
+
+system variables
+	width, height
+	mouseX, mouseY
+	pmouseX, pmouseY
